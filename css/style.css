@@ -235,15 +235,16 @@ nav {
     box-shadow: 2px 2px 5px #0094ab1e;
 }
 
-.progress {
-    border-radius: 10px;
+.title-info{
+    color:#a8a8e0;
 }
-
-.progress-bar {
-    background: #7F7FD5;
-    background: linear-gradient(to right, #0093ab, #86A8E7, #7F7FD5);
-    text-align: right;
-    padding-right: 5px;
+.border-skills{
+    border:7px solid;
+    border-color:  #86A8E7;
+    border-radius:50%;
+    width:9.5rem;
+    height:9.5rem;
+    padding:10px;
 }
 
 /* end about */
