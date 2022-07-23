@@ -321,6 +321,13 @@ a:hover {
     display: block;
     transition: 0.9s;
 }
+
+.p-work{
+    color: rgb(221, 221, 221);
+    background: linear-gradient(to right, #0094ab5b, #86a8e770, #7f7fd562);
+    padding:2px 5px;
+    border-radius:8px;
+}
 /* end portfolio */
 /*/////////////////////////////////////////////////////////////////////////////////////*/
 
